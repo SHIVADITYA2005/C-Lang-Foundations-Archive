@@ -1,6 +1,7 @@
 🌟 C-Lang Foundations Archive
 A legacy archive documenting the earliest building blocks of my journey into systems programming.
-<p align="center"> <img src="https://raw.githubusercontent.com/PKief/vscode-markdown-preview-github-styles/main/images/hero.svg" width="600"> </p> <p align="center"> <b>From syntax → logic → algorithms → system thinking</b><br> This repository preserves the earliest C programs I wrote while learning computer science fundamentals. </p>
+<p align="center"> ![C Programming Banner](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/programmer.gif)
+</p> <p align="center"> <b>From syntax → logic → algorithms → system thinking</b><br> This repository preserves the earliest C programs I wrote while learning computer science fundamentals. </p>
 🚀 About the Project
 
 This repository is a curated archive of classic C programs that shaped my reasoning about:
