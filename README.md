@@ -18,8 +18,7 @@ Before moving to high-level abstractions, I focused on mastering how software in
 
 ### This archive serves as proof of concept for:
 
-- **Algorithmic Efficiency** – Writing optimized logic with minimal overhead.  
-- **Memory Awareness** – Understanding data types, stack allocation, and pointers.  
+- **Algorithmic Efficiency** – Writing optimized logic with minimal overhead.    
 - **Procedural Design** – Modular, reusable functions.  
 - **Unix/Linux Philosophy** – CLI-driven development with GCC.
 
@@ -81,23 +80,6 @@ Visualizing the execution flow of algorithms implemented in this repository.
 
 ---
 
-## 📘 Quick Start
-
-To test these programs locally, ensure you have GCC or Clang installed.
-
-### 1. Clone the repository:
-
-```bash
-git clone https://github.com/YourUsername/C-Lang-Foundations-Archive.git
-cd C-Lang-Foundations-Archive
-2. Compile and Run (Example: Fibonacci)
-bash
-Copy code
-gcc fibonacci.c -o fib
-./fib
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"> </p>
-✨ Why This Matters
-In an era of frameworks and high-level abstractions, this repository demonstrates my ability to understand the Black Box.
 
 Mastering C improves my programming in Python, JavaScript, Rust, Go, and more — because the fundamentals of memory, stack, and heap remain the same.
 
