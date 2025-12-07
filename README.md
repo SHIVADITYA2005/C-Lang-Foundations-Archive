@@ -1,12 +1,11 @@
 🌟 C-Lang Foundations Archive
 A legacy archive documenting the earliest building blocks of my journey into systems programming.
 <p align="center">
-  <img src="https://i.imgur.com/2DhmtJ4.gif" width="500">
+  <img src="https://cdn.pixabay.com/photo/2022/01/05/00/28/technology-6918218_1280.jpg" width="600" alt="Coding background">
 </p>
+
  <p align="center"> <b>From syntax → logic → algorithms → system thinking</b><br> This repository preserves the earliest C programs I wrote while learning computer science fundamentals. </p>
- <p align="center">
-  <img src="https://i.imgur.com/o7J2qPH.gif" width="500">
-</p>
+
 
 🚀 About the Project
 
@@ -25,9 +24,7 @@ This repository is a curated archive of classic C programs that shaped my reason
 ✔️ Foundations for DSA & Systems Programming
 
 These are not just beginner exercises — they represent the first bricks in the wall that later became advanced CS skills.
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="300">
-</p>
+
 
 
 📁 Folder Structure
