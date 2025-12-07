@@ -1,7 +1,7 @@
 🌟 C-Lang Foundations Archive
 A legacy archive documenting the earliest building blocks of my journey into systems programming.
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2022/01/05/00/28/technology-6918218_1280.jpg" width="600" alt="Coding background">
+  <img src=https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.svg width="50%" alt="…">
 </p>
 
  <p align="center"> <b>From syntax → logic → algorithms → system thinking</b><br> This repository preserves the earliest C programs I wrote while learning computer science fundamentals. </p>
